@@ -5,6 +5,8 @@
     (pkgs.python312.withPackages (ps: with ps; [
         pandas
         ipykernel
+        matplotlib
+        seaborn
     ]))
   ];
 

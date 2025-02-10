@@ -1,3 +1,9 @@
+ID,Name,City,Age
+1,Alice,New York,25
+2,Bob,Los Angeles,30
+3,Charlie,Chicago,35
+4,David,Houston,40
+5,Emily,Phoenix,28
 Duration,Pulse,Maxpulse,Calories
 60,110,130,409.1
 60,117,145,479
