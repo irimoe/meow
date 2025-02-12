@@ -1,0 +1,168 @@
+country_code,country,region,overall_score
+FIN,Finland,OECD,86.76059478
+SWE,Sweden,OECD,85.98139698
+DNK,Denmark,OECD,85.68363681
+DEU,,OECD,83.35844651
+AUT,Austria,OECD,
+FRA,France,OECD,82.04834271
+NOR,Norway,OECD,82.00448915
+CZE,Czechia,OECD,81.87455223
+POL,Poland,OECD,81.80017556
+EST,Estonia,OECD,81.68334647
+GBR,United Kingdom,OECD,81.65314272
+HRV,,E. Europe & C. Asia,81.49550882
+SVN,Slovenia,OECD,81.00665366
+LVA,Latvia,OECD,80.68164288
+CHE,Switzerland,OECD,80.53738907
+ESP,Spain,OECD,80.42509149
+IRL,Ireland,OECD,80.14793835
+PRT,Portugal,OECD,
+BEL,Belgium,OECD,79.45505844
+NLD,,OECD,79.42118915
+JPN,Japan,OECD,79.41412774
+HUN,Hungary,,79.39344534
+SVK,Slovak Republic,OECD,79.12032612
+ITA,Italy,OECD,78.78683607
+MDA,,E. Europe & C. Asia,78.63437562
+CAN,Canada,OECD,78.49677968
+NZL,New Zealand,OECD,78.43333065
+GRC,Greece,OECD,78.36883446
+ISL,Iceland,OECD,78.26644181
+CHL,Chile,OECD,78.22377122
+KOR,"Korea, Rep.",OECD,78.06195027
+URY,Uruguay,LAC,77.73837361
+LUX,Luxembourg,OECD,77.64534955
+BLR,Belarus,E. Europe & C. Asia,na
+ROU,Romania,E. Europe & C. Asia,77.46052633
+SRB,Serbia,E. Europe & C. Asia,77.33697175
+LTU,Lithuania,OECD,76.80511203
+UKR,Ukraine,E. Europe & C. Asia,76.51769791
+USA,United States,OECD,75.91439705
+AUS,Australia,OECD,75.90411851
+MLT,Malta,E. Europe & C. Asia,75.52944579
+GEO,Georgia,E. Europe & C. Asia,75.01713789
+THA,Thailand,East & South Asia,74.73862913
+BGR,Bulgaria,E. Europe & C. Asia,74.62004755
+KGZ,Kyrgyz Republic,E. Europe & C. Asia,74.4054343
+CUB,Cuba,LAC,74.13561626
+BIH,Bosnia and Herzegovina,E. Europe & C. Asia,74.01986096
+ISR,Israel,OECD,73.97033908
+RUS,Russian Federation,E. Europe & C. Asia,73.78628002
+BRA,Brazil,LAC,73.68939304
+ARG,Argentina,LAC,73.68521877
+CRI,,OECD,73.55689326
+AZE,Azerbaijan,E. Europe & C. Asia,73.52747282
+ALB,Albania,E. Europe & C. Asia,73.50609736
+VNM,Vietnam,East & South Asia,73.32232265
+ARM,Armenia,E. Europe & C. Asia,73.25805222
+FJI,Fiji,Oceania,72.87704416
+TUN,Tunisia,MENA,72.50349745
+CYP,Cyprus,E. Europe & C. Asia,72.49166359
+MKD,North Macedonia,E. Europe & C. Asia,72.46901727
+BTN,Bhutan,East & South Asia,72.33907578
+DOM,Dominican Republic,LAC,72.13519314
+CHN,China,East & South Asia,72.00816749
+SGP,Singapore,East & South Asia,71.77703382
+PER,Peru,LAC,71.65907643
+KAZ,Kazakhstan,E. Europe & C. Asia,71.64826315
+MNE,Montenegro,E. Europe & C. Asia,71.40438382
+MDV,Maldives,East & South Asia,71.27199736
+UZB,Uzbekistan,E. Europe & C. Asia,71.14824663
+MAR,Morocco,MENA,70.86945567
+DZA,Algeria,MENA,70.83361592
+TUR,T�rkiye,OECD,70.77861136
+SLV,El Salvador,LAC,70.65896551
+ECU,Ecuador,LAC,70.43423838
+IDN,Indonesia,East & South Asia,70.16289734
+COL,Colombia,OECD,70.05009086
+JOR,Jordan,MENA,69.87478579
+MYS,Malaysia,East & South Asia,69.8497457
+ARE,United Arab Emirates,MENA,69.71476573
+MEX,Mexico,OECD,69.70547768
+EGY,"Egypt, Arab Rep.",MENA,69.61848903
+JAM,,LAC,69.59087411
+LKA,Sri Lanka,East & South Asia,69.40149899
+BRB,Barbados,LAC,69.35155723
+TJK,Tajikistan,E. Europe & C. Asia,69.18514074
+IRN,"Iran, Islamic Rep.",MENA,69.09183116
+BOL,Bolivia,LAC,68.85065457
+PRY,Paraguay,LAC,68.84061334
+SLV,El Salvador,LAC,70.65896551
+CPV,Cabo Verde,Sub-Saharan Africa,68.83571071
+OMN,Oman,MENA,
+TKM,Turkmenistan,E. Europe & C. Asia,68.46722124
+SUR,Suriname,LAC,68.24533686
+MUS,Mauritius,Sub-Saharan Africa,67.9773422
+SAU,Saudi Arabia,MENA,67.69215149
+LBN,Lebanon,MENA,67.52014468
+GUY,Guyana,LAC,67.39975115
+PAN,Panama,LAC,67.32492941
+PHL,Philippines,East & South Asia,67.14368186
+NPL,Nepal,East & South Asia,66.46962887
+QAT,Qatar,MENA,66.23854149
+BGD,Bangladesh,East & South Asia,65.91095145
+BRN,Brunei Darussalam,East & South Asia,65.70781891
+KHM,Cambodia,East & South Asia,64.8362397
+NIC,Nicaragua,LAC,64.79990658
+IRQ,Iraq,MENA,64.79264473
+MNG,Mongolia,East & South Asia,64.69436642
+BLZ,Belize,LAC,64.59998318
+KWT,Kuwait,MENA,64.43399278
+NAM,Namibia,Sub-Saharan Africa,64.28167339
+ZAF,South Africa,,64.0031979
+BHR,Bahrain,MENA,63.74123939
+IND,India,East & South Asia,63.44921401
+GAB,Gabon,Sub-Saharan Africa,63.092157
+TTO,Trinidad and Tobago,LAC,62.98199761
+LAO,Lao PDR,East & South Asia,62.96379588
+HND,Honduras,LAC,62.94584397
+VEN,"Venezuela, RB",LAC,62.88269669
+BWA,Botswana,Sub-Saharan Africa,62.73762598
+STP,Sao Tome and Principe,Sub-Saharan Africa,62.73294667
+CIV,Cote d'Ivoire,Sub-Saharan Africa,62.25928754
+SEN,Senegal,Sub-Saharan Africa,61.8294028
+GHA,Ghana,Sub-Saharan Africa,61.79869089
+KEN,Kenya,Sub-Saharan Africa,60.91303634
+BHS,"Bahamas, The",LAC,60.8605604
+MMR,Myanmar,East & South Asia,60.44313051
+RWA,Rwanda,Sub-Saharan Africa,60.19805602
+GTM,Guatemala,LAC,59.38309832
+PAK,Pakistan,East & South Asia,58.96764175
+GMB,"Gambia, The",Sub-Saharan Africa,58.30157717
+SYR,Syrian Arab Republic,MENA,58.18092091
+MLI,Mali,Sub-Saharan Africa,57.98284701
+SWZ,Eswatini,Sub-Saharan Africa,57.85070876
+MRT,Mauritania,Sub-Saharan Africa,57.23236891
+TZA,Tanzania,Sub-Saharan Africa,56.83294186
+MWI,Malawi,Sub-Saharan Africa,56.29572536
+TGO,,Sub-Saharan Africa,56.26487556
+SLE,Sierra Leone,Sub-Saharan Africa,55.66940203
+ZWE,Zimbabwe,Sub-Saharan Africa,55.60229222
+CMR,Cameroon,Sub-Saharan Africa,55.14965887
+BEN,Benin,Sub-Saharan Africa,55.1176285
+UGA,Uganda,Sub-Saharan Africa,55.02406478
+GIN,Guinea,Sub-Saharan Africa,54.88727619
+LSO,Lesotho,Sub-Saharan Africa,54.86989377
+ETH,Ethiopia,Sub-Saharan Africa,54.54639699
+ZMB,Zambia,Sub-Saharan Africa,54.28413607
+NGA,Nigeria,Sub-Saharan Africa,54.27087045
+BDI,Burundi,Sub-Saharan Africa,53.91146653
+PNG,Papua New Guinea,Oceania,53.60445304
+MOZ,Mozambique,Sub-Saharan Africa,52.68726507
+DJI,Djibouti,Sub-Saharan Africa,52.67871036
+COG,"Congo, Rep.",Sub-Saharan Africa,52.63154388
+HTI,Haiti,LAC,52.57651422
+BFA,Burkina Faso,Sub-Saharan Africa,52.44550392
+COM,Comoros,Sub-Saharan Africa,51.73064216
+AGO,Angola,Sub-Saharan Africa,50.81798457
+MDG,Madagascar,Sub-Saharan Africa,50.25456036
+LBR,Liberia,Sub-Saharan Africa,49.88381024
+AFG,Afghanistan,E. Europe & C. Asia,49.00560144
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,48.58170068
+SDN,Sudan,Sub-Saharan Africa,48.5525944
+NER,Niger,Sub-Saharan Africa,48.30976092
+SOM,,Sub-Saharan Africa,48.02723119
+,"Yemen, Rep.",MENA,46.84698025
+TCD,Chad,Sub-Saharan Africa,45.34232094
+CAF,Central African Republic,,40.39583943
+SSD,South Sudan,Sub-Saharan Africa,38.67608607
