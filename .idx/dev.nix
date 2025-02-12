@@ -1,14 +1,14 @@
 { pkgs, ... }: {
   channel = "stable-24.05";
 
-  packages = [
-    (pkgs.python312.withPackages (ps: with ps; [
+  packages = with pkgs; [
+    (python312.withPackages (ps: with ps; [
         pandas
         ipykernel
         matplotlib
         seaborn
     ]))
-    pkgs.helix
+    helix
   ];
 
   idx = {
