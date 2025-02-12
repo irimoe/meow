@@ -8,6 +8,7 @@
         matplotlib
         seaborn
     ]))
+    pkgs.helix
   ];
 
   idx = {
