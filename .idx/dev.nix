@@ -7,6 +7,7 @@
         ipykernel
         matplotlib
         seaborn
+        numpy
     ]))
     helix
   ];
