@@ -17,10 +17,11 @@ class AverageMenuChoice:
     SHARES = "2"
     COMMENTS = "3"
     BACK = "0"
+ 
 
-def clear_screen():
-    # if the user is on a unix-like system, use `clear`. otherwise, use `cls`
-    os.system('cls' if os.name == 'nt' else 'clear')
+##################################################################
+# display and user interactions
+##################################################################
 
 def display_header(title):
     clear_screen()
@@ -43,6 +44,11 @@ def get_validated_input(prompt, valid_options):
         error_msg = f"{Colours.RED}invalid option! please select from: {', '.join(valid_options)}{Colours.RESET} •"
         current_prompt = f"{error_msg} {prompt}"
         attempts += 1
+
+
+##################################################################
+# menus 
+##################################################################
 
 def main_menu():
     display_header("snowy animal rescue")
@@ -72,6 +78,11 @@ def average_menu():
                               AverageMenuChoice.COMMENTS,
                               AverageMenuChoice.BACK])
 
+
+##################################################################
+# utility functions
+##################################################################
+
 # converts the average menu choice to the relevant column name in the 
 # dataframe.
 def convert_avg_menu_choice(avg_menu_choice):
@@ -84,6 +95,15 @@ def convert_avg_menu_choice(avg_menu_choice):
     if mapping == "unknown":
         raise ValueError(f"invalid average menu choice: {avg_menu_choice}")
     return mapping
+
+def clear_screen():
+    # if the user is on a unix-like system, use `clear`. otherwise, use `cls`
+    os.system('cls' if os.name == 'nt' else 'clear')
+    
+
+##################################################################
+# data loading and processing
+##################################################################
 
 def load_data(filename="data.csv"):
     try:
@@ -122,6 +142,11 @@ def get_avg_data(avg_choice, df=None):
         return result
     except KeyError:
         return f"{Colours.RED}error: column '{avg_choice}' wasn't found in the dataset.{Colours.RESET}"
+
+
+##################################################################
+# main function
+##################################################################
 
 def main():
 
